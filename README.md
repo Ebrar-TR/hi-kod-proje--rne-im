@@ -1,2 +1,3 @@
-# hi-kod-proje--rne-im
-Bu benim Hi-Kod kursunda yaptığım bir projedir
+# hi-kod-proje-ornegim
+Bu benim Hi-Kod kursunda yaptığım bir projedir. Boostrap, CSS, Javascript kullanıldı.
+
